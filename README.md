@@ -5,5 +5,6 @@ matrices.</p>
     <li>GetSize- returns square size</li>
     <li>GetValue- returns value at (row,col)</li>
     <li>SetValue- sets value at (row, col)</li>
+    <li>PrintMatrix- prints the current state of your matrix.</li>
 </ol>
 <p>2014</p>
